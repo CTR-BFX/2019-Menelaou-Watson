@@ -1,6 +1,6 @@
 # Blastocyst transfer in mice alters the placental transcriptome and functional efficiency at midgestation
 
-**Katerina Menelaou<sup>1,2</sup>, Malwina Prater<sup>2</sup>, Georgina E.T. Blake<sup>1,2</sup>, Colleen Geary-Joo<sup>3</sup>, James C. Cross<sup>4</sup>, Russell S. Hamilton<sup>2,5</sup>, and Erica D. Watson<sup>1,2,*</sup>*. **
+**Katerina Menelaou<sup>1,2</sup>, Malwina Prater<sup>2</sup>, Georgina E.T. Blake<sup>1,2</sup>, Colleen Geary-Joo<sup>3</sup>, James C. Cross<sup>4</sup>, Russell S. Hamilton<sup>2,5</sup>, and Erica D. Watson<sup>1,2,*</sup>*.**
 
 
 <sup>1</sup>Department of Physiology, Development, and Neuroscience, University of Cambridge, Cambridge, UK
@@ -45,32 +45,32 @@ Scripts are provided in directory `Scripts` (R Script to reproduce paper figures
 
 
 |  Figure    |  Output Filename                              |   Description     |
-| :-------:  |      :----:                                   |         :---:     |
-|     2A     |    CTR_edw23_0002_PCA_top5000MV.pdf           |  PCA plot         |
-|     2B     |    CTR_edw23_0002_MAplot.pdf                  |  MA plot          |
-|     2D     |    Fig_2D_CTR_edw23_0002_TRANSFER_vs_NON_TRANSFER_gene_expression_51_ComplexHeatmap_.pdf           |  Heatmap of changes in genes expression between Control vs Transferred |
-|     5A     |  CTR_edw23_0002_TRANSFER_vs_NON_TRANSFER_l2fc1_SigGenes_karyoplot.pdf  |    Karyoplot showing distribution of DEGs on chromosomes        |
-|     5B     |  EPU6_v3.pdf                |   Example of  Enhancer-promoter unit (EPU) with DEGs.     |
+| :-------:  |      :----                                  |         :---    |
+|     2A     |    Fig_2A_PCA_top5000MV.png           |  PCA plot         |
+|     2B     |    Fig_2B_MAplot.png                  |  MA plot          |
+|     2D     |    Fig_2D_ComplexHeatmap.png           |  Heatmap of changes in genes expression between Control vs Transferred |
+|     5A     |    Fig_5A_l2fc1_SigGenes_karyoplot.png  |    Karyoplot showing distribution of DEGs on chromosomes        |
+|     5B     |    Fig_5B_EPU6.png                |   Example of  Enhancer-promoter unit (EPU) with DEGs.     |
 
 
 
-![Fig.2A.](https://github.com/nmalwinka/2019-Menelaou/blob/master/CTR_edw23_0002_PCA_top5000MV.png)
+![Fig.2A.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Fig_2A_PCA_top5000MV.png)
 
 Fig.2A.
 
-![Fig.2B.](https://github.com/nmalwinka/2019-Menelaou/blob/master/CTR_edw23_0002_MAplot.png)
+![Fig.2B.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Fig_2B_MAplot.png)
 
 Fig.2B.
 
-![Fig.2C.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Fig_2D_CTR_edw23_0002_TRANSFER_vs_NON_TRANSFER_51_ComplexHeatmap.png)
+![Fig.2C.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Fig_2D_ComplexHeatmap.png)
 
 Fig.2C.
 
-![Fig.5A.](https://github.com/nmalwinka/2019-Menelaou/blob/master/CTR_edw23_0002_TRANSFER_vs_NON_TRANSFER_l2fc1_SigGenes_karyoplot.png)
+![Fig.5A.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Fig_5A_l2fc1_SigGenes_karyoplot.png)
 
 Fig.5A.
 
-![Fig.5B.](https://github.com/nmalwinka/2019-Menelaou/blob/master/EPU6.png)
+![Fig.5B.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Fig_5B_EPU6.png)
 
 Fig.5B.
 
