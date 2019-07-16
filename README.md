@@ -53,23 +53,23 @@ Scripts are provided in directory `Scripts` (R Script to reproduce paper figures
 |     5B     |    Fig_5B_EPU6.png                |   Example of  Enhancer-promoter unit (EPU) with DEGs.     |
 
 
-![Fig.2A.](https://github.com/nmalwinka/2019-Menelaou/tree/master/Figures/Fig_2A_PCA_top5000MV.png)
+![Fig.2A.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Figures/Fig_2A_PCA_top5000MV.png)
 
 Fig.2A.
 
-![Fig.2B.](https://github.com/nmalwinka/2019-Menelaou/tree/master/Figures/Fig_2B_MAplot.png)
+![Fig.2B.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Figures/Fig_2B_MAplot.png)
 
 Fig.2B.
 
-![Fig.2C.](https://github.com/nmalwinka/2019-Menelaou/tree/master/Figures/Fig_2D_ComplexHeatmap.png)
+![Fig.2C.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Figures/Fig_2D_ComplexHeatmap.png)
 
 Fig.2C.
 
-![Fig.5A.](https://github.com/nmalwinka/2019-Menelaou/tree/master/Figures/Fig_5A_l2fc1_SigGenes_karyoplot.png)
+![Fig.5A.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Figures/Fig_5A_l2fc1_SigGenes_karyoplot.png)
 
 Fig.5A.
 
-![Fig.5B.](https://github.com/nmalwinka/2019-Menelaou/tree/master/Figures/Fig_5B_EPU6.png)
+![Fig.5B.](https://github.com/nmalwinka/2019-Menelaou/blob/master/Figures/Fig_5B_EPU6.png)
 
 Fig.5B.
 
