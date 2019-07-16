@@ -1,0 +1,9 @@
+sampleName,fileName,Genotype,Phenotype,Condition
+A12_3_S31,A12_3_S31_Aligned.out.srt.bam_htseq_combined_counts.txt,C57Bl6,Normal,transferred
+A3_3_S19,A3_3_S19_Aligned.out.srt.bam_htseq_combined_counts.txt,C57Bl6,Normal,transferred
+A31_4_S23,A31_4_S23_Aligned.out.srt.bam_htseq_combined_counts.txt,C57Bl6,Normal,transferred
+A5_1_S27,A5_1_S27_Aligned.out.srt.bam_htseq_combined_counts.txt,C57Bl6,Normal,transferred
+C57_1_4_S5,C57_1_4_S5_Aligned.out.srt.bam_htseq_combined_counts.txt,C57Bl6,Normal,non-transferred
+C57_11_5_S1,C57_11_5_S1_Aligned.out.srt.bam_htseq_combined_counts.txt,C57Bl6,Normal,non-transferred
+C57_11_8_S9,C57_11_8_S9_Aligned.out.srt.bam_htseq_combined_counts.txt,C57Bl6,Normal,non-transferred
+C57_15_5_S13,C57_15_5_S13_Aligned.out.srt.bam_htseq_combined_counts.txt,C57Bl6,Normal,non-transferred
