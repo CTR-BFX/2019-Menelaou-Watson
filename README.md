@@ -25,12 +25,11 @@ Assisted reproduction technologies (ART) are becoming increasingly common. There
 ## Data Processing
 
 Data can be accessed from **ArrayExpress** with accession number [[**E-MTAB-8036**]](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-8036). 
+It can also be accessed in Expression Atlas [[**E-MTAB-8036**]](http://wwwdev.ebi.ac.uk/gxa/experiments/E-MTAB-8036?accessKey=069718f2-86f5-4b74-9a08-cd6541a1d507 ).
 
 Fastq files (located in subdirectories of /storage/CTR-Projects/CTR_edw23/CTR_edw23_0002/) were QC'ed (FastQC and fastq_screen), trimmed with Trim Galore! and aligned to GRCm38 mouse genome using STAR aligner. Alignments and QC were processed using custom ClusterFlow (v0.5dev) pipelines and assessed using MultiQC (0.9.dev0). Gene quantification was determined with HTSeq-Counts (v0.6.1p1). Since Sequencing was performed in duplicate to provide at least 18 million reads per sample, HTSeq counts were combined before downstream analysis (script: `combine_htseq_counts.pl`). Additional quality control was performed with rRNA and mtRNA counts script, feature counts (v 1.5.0-p2) and qualimap (v2.2). 
 
  Principle component analysis was performed on the rlog transformed count data for top 5000 most variable genes. Differential gene expression was performed with DESeq2 package (v1.16.1, R v3.4.0) and with the same package read counts were normalised on the estimated size factors. Heatmaps were generated with 'pheatmap' R package. Karyoplots were generated with karyoploteR  -abs log2FC > 1(v1.8.8). Pathway and GO analyses were done and visualised with R packages: 'pathview', 'gage', 'DOSE', 'clusterProfiler', 'ReactomePA' and 'GOplot'. Heatmaps were generated with “ComplexHeatmap” R package (v 1.20.0). 
-
-
 
 
 
